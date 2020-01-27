@@ -1,2 +1,4 @@
 site_name: Leninism 101
 theme: readthedocs
+markdown_extensions:
+  - extra
